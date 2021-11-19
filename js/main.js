@@ -28,6 +28,8 @@ const app = new Vue({
                     this.emails.push(result.data.response);
                 })
             }
-        }
+        },
+
+       
     }
 })
